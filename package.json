@@ -1,0 +1,28 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umairali-bit/jest-another-RPG-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umairali-bit/jest-another-RPG-/issues"
+  },
+  "homepage": "https://github.com/umairali-bit/jest-another-RPG-#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "install": "^0.13.0",
+    "jest": "^27.0.6",
+    "npm": "^7.20.6"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
