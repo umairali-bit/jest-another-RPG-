@@ -16,7 +16,9 @@
     "url": "https://github.com/umairali-bit/jest-another-RPG-/issues"
   },
   "homepage": "https://github.com/umairali-bit/jest-another-RPG-#readme",
-  "dependencies": {},
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  },
   "devDependencies": {
     "install": "^0.13.0",
     "jest": "^27.0.6",
